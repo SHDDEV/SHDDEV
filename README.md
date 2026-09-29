@@ -1,4 +1,5 @@
-# SHD Soluções e Informática
+<p align="center">
+  <img src="./SHD-banner_github.png" alt="SHD Soluções e Informática" width="100%">
 
 ### Tecnologia • Desenvolvimento • Automação • Soluções Web
 
